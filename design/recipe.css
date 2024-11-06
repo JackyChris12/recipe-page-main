@@ -1,0 +1,49 @@
+body{
+    background-color: antiquewhite;
+}
+.containerA{
+background-color: white;
+padding: 30px;
+width: 30%;
+margin: auto;
+
+
+}
+.image{
+    width: 100%;
+    
+}
+.image img{
+    width: 100%;
+    border-radius: 20px;
+}
+.containerC{
+    background-color:pink;
+    padding: 20px;
+       
+}
+.containerC h4{
+    color: darkmagenta;
+}
+h3{
+    color: orangered;
+    font-size: 30px;
+}
+ol li::marker{
+    color: orange;
+}
+ol li{
+    line-height: 2.5rem;
+}
+.containerD ul li::marker {
+    color: orange;
+}
+ul li{
+    line-height: 2.5rem;
+}
+.containerC ul li::marker{
+    color: darkmagenta;
+}
+.container tr td{
+    padding: 20px;
+}
